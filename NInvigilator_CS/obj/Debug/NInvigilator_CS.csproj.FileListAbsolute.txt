@@ -1,0 +1,6 @@
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\bin\Debug\NInvigilator_CS.exe.config
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\bin\Debug\NInvigilator_CS.exe
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\bin\Debug\NInvigilator_CS.pdb
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\obj\Debug\NInvigilator_CS.csprojResolveAssemblyReference.cache
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\obj\Debug\NInvigilator_CS.exe
+E:\Projects VS\NInvigilator_CS\NInvigilator_CS\obj\Debug\NInvigilator_CS.pdb
